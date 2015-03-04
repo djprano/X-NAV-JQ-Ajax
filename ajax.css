@@ -1,0 +1,18 @@
+#pulsador{
+width     :160px;
+height    :25px;
+border    :1px solid;
+text-align: center;
+float     : bottom;
+cursor    :pointer;
+background: linear-gradient(#434343,#848484);
+color     :white;
+
+}
+#contenido{
+width     : 800px;
+height    : 90px;
+border    :1px solid;
+text-align: center;
+float     : bottom;
+}
